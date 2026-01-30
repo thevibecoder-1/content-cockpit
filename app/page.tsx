@@ -36,14 +36,20 @@ export default function Home() {
         <div className="max-w-4xl mx-auto px-6 py-6 flex justify-between items-center">
           <div className="flex items-center gap-3">
             <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center text-xl">
-              ⚡
+              🚀
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-white">Content Cockpit</h1>
-              <p className="text-sm text-white/60">Your AI-generated X drafts</p>
+              <h1 className="text-2xl font-bold text-white">GrowthOS</h1>
+              <p className="text-sm text-white/60">Revenue Command Center</p>
             </div>
           </div>
           <div className="flex gap-2">
+            <a
+              href="/outreach"
+              className="hidden sm:block px-4 py-2 rounded-lg bg-red-500/10 hover:bg-red-500/20 text-red-400 text-sm font-medium transition"
+            >
+              🎯 SniperMail
+            </a>
             <a
               href="/jobs"
               className="hidden sm:block px-4 py-2 rounded-lg bg-green-500/10 hover:bg-green-500/20 text-green-400 text-sm font-medium transition"

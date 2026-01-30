@@ -1,0 +1,23 @@
+[
+  {
+    "id": "demo-1",
+    "text": "Building in public is the cheat code nobody talks about.\n\nYou don't need perfect code.\nYou need momentum.\n\nShip fast. Learn faster. 🚀",
+    "media": "/media/coding-dev.gif",
+    "createdAt": "2026-01-30T12:00:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "demo-2", 
+    "text": "The best developers aren't the ones who write the most code.\n\nThey're the ones who delete the most.\n\nSimplicity > Complexity. Always.",
+    "media": null,
+    "createdAt": "2026-01-30T13:00:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "post-20260130-1400",
+    "text": "The era of 'writing' code is ending.\n\nThe era of 'vibing' code is here.\n\nPrompting is just the new high-level language. If you're not building with AI assistance today, you're basically hand-coding assembly in 1990.\n\nStay elite or stay behind. ⚡ #vibe #coding #AI",
+    "media": "/media/vibe-coding.gif",
+    "createdAt": "2026-01-30T14:00:00Z",
+    "status": "pending"
+  }
+]

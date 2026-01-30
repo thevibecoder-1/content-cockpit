@@ -51,6 +51,12 @@ export default function Home() {
               🎯 SniperMail
             </a>
             <a
+              href="/focus"
+              className="hidden sm:block px-4 py-2 rounded-lg bg-blue-500/10 hover:bg-blue-500/20 text-blue-400 text-sm font-medium transition"
+            >
+              🧘 Focus
+            </a>
+            <a
               href="/jobs"
               className="hidden sm:block px-4 py-2 rounded-lg bg-green-500/10 hover:bg-green-500/20 text-green-400 text-sm font-medium transition"
             >

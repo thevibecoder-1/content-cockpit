@@ -1,0 +1,66 @@
+[
+  {
+    "category": "React Jobs",
+    "items": [
+      {
+        "title": "My company is hiring an agency to rebuild our site, which will be in React. I will need to be \"React ready\" to handle the transition from agency to in-house development by around January. Am I screwed, bros?",
+        "url": "https://reddit.com/r/reactjs/comments/1nc7or3/my_company_is_hiring_an_agency_to_rebuild_our/",
+        "score": 0,
+        "subreddit": "r/reactjs",
+        "selftext": "Well to give you some context I've been an in-house frontend dev for about 5 years now at a company that has had a very old tech stack. We're using a static site generator called [Wintersmith](https://github.com/jnordberg/wintersmith).\n\nWhen I first joined the lead developer pretty much warned me that we basically don't \"rock the boat\" by messing with it too much because it is out-dated and there isn't support for it online for help if we were to ever run into something that broke the site.\n\nWith that said, it's been solid for what it does and what we used it for but now the company is at a point where it has gone from maybe 30 people to over 100 people and we have people who are dedicated to creating content (podcasts, blog posts, case studies). Because of this we have out grown our tech stack. We still have a small team of developers and we are looking at having an agency re-do our website, atleast the main portions of it and also build our website on top of a CMS.\n\nI'm not sure what CMS the agency will use but it has been confirmed to me that the agency does build with React. I have very little React experience. I built a 2 static sites with it about 4 years ago, a small typing game and I think that's it.\n\nI will need much more than a React refresher to take this site from the agency and build upon their work. But I figure if I start now, build some projects, use AI as a mentoring tool I have a good chance of having a better than basic understanding of React by the time this project lands in my hands to maintain and build upon.\n\nDo you think this is feasible? My job essentially depends on it.\n\nWith that said is there anything you folks would recommend me do? I like courses but I don't wanna spin my wheels too much on a course. I do better when I learn something then build something with what I learned. Most courses usually are build around 1 major project that you build during the course until the end. I would probably forget 60% of what I learned by the time I got to the end of the course so building multiple smaller projects is usually best for me.\n\nI will probably have to go full stack eventually to maintain this project but atleast for the first few months I anticipate I will only be doing frontend work like building new landing pages\n\n  \nEdit: Let me also say my company is supporting me, knowing I don't know much about React. They're giving me a few hours a week to dedicate to learning React on company time, WHILE also learning in my free time. I essentially have to make a plan, execute it, and succeed. I can't use the excuse \"oh you guys did not give me any time to prepare or get ready for this major tech change\". I have to be ready. ",
+        "source": "React Jobs"
+      }
+    ]
+  },
+  {
+    "category": "Node.js Jobs",
+    "items": [
+      {
+        "title": "[Hiring] Full-time React + Node.js Developer (Remote, Startup)",
+        "url": "https://reddit.com/r/node/comments/1qnixzl/hiring_fulltime_react_nodejs_developer_remote/",
+        "score": 0,
+        "subreddit": "r/node",
+        "selftext": "Hi,\n\nI’m looking to hire a full-time developer with strong experience in:\n\n\\\\- React.js (hooks, component architecture)\n\n\\\\- Node.js (Express / REST APIs)\n\n\\\\- Authentication & integrations\n\n\\\\- Working with production codebases\n\nRole:\n\n\\\\- Full-time (40 hrs/week), but I'm flexible. \n\n\\\\- Fully Remote (IST only)\n\n\\\\- Startup environment (I'm the only person atm)\n\nProject:\n\n\\\\- SaaS web application\n\n\\\\- You’ll work directly with the founder\n\nRequirements:\n\n\\\\- 1+ years of hands-on experience\n\n\\\\- Comfortable taking ownership\n\nCompensation:\n\n\\\\- Monthly salary: Approx  ₹35,000 to ₹50,000 + Incentive based on performance\n\nHiring process:\n\n\\\\- Short intro chat\n\n\\\\- We can get on a call. I don't expect you to know everything. If you have the willingness to figure it out we can work together.\n\nPlease DM!",
+        "source": "Node.js Jobs"
+      },
+      {
+        "title": "[Hiring] JavaScript Backend Engineer (Node.js) – Remote (SEA, Immediate Start)",
+        "url": "https://reddit.com/r/node/comments/1qmzq3d/hiring_javascript_backend_engineer_nodejs_remote/",
+        "score": 0,
+        "subreddit": "r/node",
+        "selftext": "We’re looking for a **strong JavaScript backend engineer** to take ownership of the **core product and SDK** for a growing platform. This is a hands-on role with real responsibility and long-term potential.\n\n**What you’ll do:**\n\n* Build and maintain backend services using **Node.js**\n* Develop and maintain SDKs and backend integrations\n* Work on data-heavy systems (events, tracking, reporting, analytics)\n* Own features end-to-end and make technical decisions\n* Collaborate async with a small, fast-moving team\n\n**What we’re looking for:**\n\n* Solid experience with **JavaScript / Node.js**\n* Experience building APIs and backend systems\n* Comfortable working independently and owning core functionality\n* Experience with SDKs, analytics, ads, or event-based systems is a plus\n* Good communication and reliability\n\n**Location:**\n\n* **Southeast Asia preferred**\n* Fully remote\n\n**Availability:**\n\n* Can **start immediately**\n\n**Compensation:**\n\n* Competitive, cost-effective rates based on experience\n* Long-term opportunity for the right fit\n\n👉 **How to apply:**  \nPlease DM with:\n\n* A short intro\n* Your experience with Node.js\n* GitHub or portfolio (if available)",
+        "source": "Node.js Jobs"
+      }
+    ]
+  },
+  {
+    "category": "Remote Leads",
+    "items": [
+      {
+        "title": "Looking for Appointment Setters for a Digital Marketing Agency ($10 per Qualified Meeting Booked)",
+        "url": "https://reddit.com/r/RemoteJobs/comments/1qr8dwk/looking_for_appointment_setters_for_a_digital/",
+        "score": 0,
+        "subreddit": "r/RemoteJobs",
+        "selftext": "Hey everyone,\nWe’re a growing Digital Marketing Agency working with clients in the US, UK & Australia, and we’re hiring appointment setters on a performance-based model.\n\nWhat you’ll do:\n- Reach out to business owners (DMs / Email / LinkedIn)\n- Qualify leads using clear criteria\n- Book qualified meetings on our calendar\n\nCompensation (your choice):\n- $10 per qualified meeting booked\nOR\n- Revenue share on closed deals (higher upside)\n\nWhat we provide:\n- Proven offer & script\n- Ideal customer profile\n- Booking link + support\n- Fully remote, flexible hours\n- No earning cap\n\nIf you have outreach experience, DM me with your experience and preferred compensation model.",
+        "source": "Remote Leads"
+      }
+    ]
+  },
+  {
+    "category": "Freelance Gigs",
+    "items": []
+  },
+  {
+    "category": "SaaS Hiring",
+    "items": [
+      {
+        "title": "Hiring a Full Stack Developer to build from zero. Early stage. Real ownership.",
+        "url": "https://reddit.com/r/SaaS/comments/1qqsjdj/hiring_a_full_stack_developer_to_build_from_zero/",
+        "score": 1,
+        "subreddit": "r/SaaS",
+        "selftext": "This is not a role for someone looking for stability or a quick paycheck.\n\nIt *is* for someone who wants real ownership and wants to build something from the ground up, not just contribute code to a backlog.\n\nYou would be working directly with me as the founder.  \nNot layers of management.  \nNot “just implement this Figma.”\n\nWe would think through the product together.  \nDecide what matters.  \nShip fast. Break things. Fix them. Learn. Repeat.\n\nThere is very little process right now by design.  \nHigh trust, high responsibility, and a lot of freedom to shape how things are built.\n\nThe tech stack is flexible. I care more about strong fundamentals than any specific framework. If you can reason clearly and build clean systems, we will figure the rest out.\n\nThis might make sense if you have built side projects, early products, or things that never quite saw the light of day but taught you a lot.\n\nIf you are comfortable with uncertainty in exchange for upside.  \nIf you want to think like an owner, not an employee.  \nIf you care about *why* something exists, not just *how* it is implemented.\n\nCompensation is equity only. It will be meaningful and discussed openly. If it does not feel right for either of us, we do not force it.\n\nIf this resonates, reach out with:  \nWhat you have built  \nWhat kind of ownership you want  \nWhy an equity-only role makes sense for you right now\n\nNot for everyone. But maybe exactly right for a few.",
+        "source": "SaaS Hiring"
+      }
+    ]
+  }
+]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "vibe-coding-2026",
+    "text": "my coding process in 2026:\n1. type 'build a SaaS' into cursor\n2. hit tab until it compiles\n3. push to prod\n4. pray\n\nvibe coding is just fancy technical debt. 💀\n#vibecoding #coding #devlife",
+    "media": "/media/hackerman.jpg",
+    "createdAt": "2026-01-31T10:48:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "post-20260131-0915",
+    "text": "CES 2026 Reality Check:\n- AI wearables want to be my 'second brain' (it's mostly panic & stack traces).\n- Robots still can't do laundry (mine just stared at a sock for 20 mins).\n- Smart glasses are 'cool' now?\n\nWe were promised cyberpunk, we got subscription-based emotional support pets. 🤖🤷‍♂️\n\n#TechTrends #DevLife #2026 #BuildInPublic",
+    "media": "/media/robot-fail-2026.gif",
+    "createdAt": "2026-01-31T09:15:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "post-20260131-0337",
+    "text": "Just merged a 'quick fix' to prod. Now I have 57 new errors and my PM is typing... 💀\n\nIf you know, you know.\n\n#FullStack #DevLife #CodingMeme",
+    "media": "/media/bugFiftySeven.gif",
+    "createdAt": "2026-01-31T03:37:00Z",
+    "status": "pending"
+  },
+  {
+    "id": "post-20260130-1400",
+    "text": "The era of 'writing' code is ending.\n\nThe era of 'vibing' code is here.\n\nPrompting is just the new high-level language. If you're not building with AI assistance today, you're basically hand-coding assembly in 1990.\n\nStay elite or stay behind. ⚡ #vibe #coding #AI",
+    "media": "/media/vibe-coding.gif",
+    "createdAt": "2026-01-30T14:00:00Z",
+    "status": "pending"
+  },
+  {
     "id": "demo-1",
     "text": "Building in public is the cheat code nobody talks about.\n\nYou don't need perfect code.\nYou need momentum.\n\nShip fast. Learn faster. 🚀",
     "media": "/media/coding-dev.gif",
@@ -11,27 +39,6 @@
     "text": "The best developers aren't the ones who write the most code.\n\nThey're the ones who delete the most.\n\nSimplicity > Complexity. Always.",
     "media": null,
     "createdAt": "2026-01-30T13:00:00Z",
-    "status": "pending"
-  },
-  {
-    "id": "post-20260130-1400",
-    "text": "The era of 'writing' code is ending.\n\nThe era of 'vibing' code is here.\n\nPrompting is just the new high-level language. If you're not building with AI assistance today, you're basically hand-coding assembly in 1990.\n\nStay elite or stay behind. ⚡ #vibe #coding #AI",
-    "media": "/media/vibe-coding.gif",
-    "createdAt": "2026-01-30T14:00:00Z",
-    "status": "pending"
-  },
-  {
-    "id": "post-20260131-0337",
-    "text": "Just merged a 'quick fix' to prod. Now I have 57 new errors and my PM is typing... 💀\n\nIf you know, you know.\n\n#FullStack #DevLife #CodingMeme",
-    "media": "/media/bugFiftySeven.gif",
-    "createdAt": "2026-01-31T03:37:00Z",
-    "status": "pending"
-  },
-  {
-    "id": "post-20260131-0915",
-    "text": "CES 2026 Reality Check:\n- AI wearables want to be my 'second brain' (it's mostly panic & stack traces).\n- Robots still can't do laundry (mine just stared at a sock for 20 mins).\n- Smart glasses are 'cool' now?\n\nWe were promised cyberpunk, we got subscription-based emotional support pets. 🤖🤷‍♂️\n\n#TechTrends #DevLife #2026 #BuildInPublic",
-    "media": "/media/robot-fail-2026.gif",
-    "createdAt": "2026-01-31T09:15:00Z",
     "status": "pending"
   }
 ]
